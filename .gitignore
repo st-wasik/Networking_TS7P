@@ -1,3 +1,8 @@
+/x64/
+/TS7P/x64/
+/TS7P/Debug/
+
+
 # Prerequisites
 *.d
 
@@ -30,3 +35,12 @@
 *.exe
 *.out
 *.app
+*.filters
+*.vcxproj
+*.zip
+*.db
+.vs/TS7P/v14/.suo
+.vs/TS7P/v15/.suo
+*.opendb
+.vs/TS7P/v15/ipch/AutoPCH/d23c0b347872627/MAIN.ipch
+TS7P/TS7P.cpp
